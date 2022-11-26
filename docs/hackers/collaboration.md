@@ -1,5 +1,5 @@
 ---
-title: "Collaboration"
+title: "Collaboration" nepal
 path: "/hackers/collaboration.html"
 id: "hackers/collaboration"
 ---
